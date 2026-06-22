@@ -1,5 +1,7 @@
 # sml-fov
 
+[![CI](https://github.com/sjqtentacles/sml-fov/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-fov/actions/workflows/ci.yml)
+
 Recursive shadowcasting field-of-view and Bresenham line-of-sight for tile games in pure Standard ML
 
 ## Installation
